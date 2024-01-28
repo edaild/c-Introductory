@@ -23,7 +23,7 @@ class Mainclass{
      }
        
 
-        // while 문 상용시
+        // while 문 사용시
         int i = 1;
             while (i < 11)
             Console.WriteLine(i++);
