@@ -3,7 +3,7 @@
 class Mainclass{
     public static void Main(string[] args)
     {
-        // 1 부터 10까지 프로그래밍을 작성하시오.
+        // 1 부터 10까지 출력하는 프로그래밍을 작성하시오.
         // 반복문을 안사용하면
         Console.WriteLine("1");
         Console.WriteLine("2");
