@@ -1,2 +1,2 @@
 # c-Introductory
-edaild/c-Introductory/ 대학 수업을 대비해 c#입문을 복습하는 과정
+edaild/c-Introductory/ 대학 수업과 과제 지옥을 대비해 C# 공부
